@@ -1,0 +1,4 @@
+- npx create-expo-app .
+- npm start
+- Open Expo Go on yur mobile and scan it
+- npm i --legacy-peer-deps
